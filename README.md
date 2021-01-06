@@ -12,7 +12,7 @@ The extension will be loaded now.
 If this is your first time writing your first script I would recommend visiting https://www.w3schools.com/js/default.asp and learn with w3schools tutorial AND you can watch tutotial on youtube too they really help alot. The programming language is called JavaScript and will run on webpages immediatly after it has loaded. The code will run on just like code being inserted into the console. 
 
 # **Instructions:**
-Go to the add code section.
+Go to the add code section.<br />
 Choose the URL-matching. The code will run on pages where the URL of the webpage equals or/and contains the URL-match.
 Paste or (write) your JavaScript code into the "Your Code" section.
 Click add code.
