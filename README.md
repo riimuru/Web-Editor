@@ -1,8 +1,7 @@
 Welcome to The Code Adder. My name is Marouane (creater of The Code Adder) and I will walk you through, how to use Codify and get your first script running. First of all I recommend editing your scripts in a different code editor, since I haven't yet made a saving feature for the editor in the add-code section. __If you think the UI is really bad I'm sorry for that. I'm working to improve on it.__
 
 # First of all 
-if you don't know how to unpack extention:<br />
-Follow the steps to load the unpacked extension.<br />
+if you don't know how to unpack extention Follow the steps to load the unpacked extension::<br />
 Go to Chrome Settings using three dots on the top right corner.<br />
 Now, Enable developer mode.<br />
 Click on Load Unpacked and select your Unzip folder. Note: You need to select the folder in which the manifest file exists.<br />
