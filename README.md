@@ -18,7 +18,7 @@ Click add code.<br />
 Now the code will run on webpage matching with the URL-match.<br />
 If your code contains an error you will be able to see the error message in the console (press F12) of websites that matches with the URL-match.<br />
 
-If you have any questions or suggestions for Web Editor, then feel free to DM me on my discord sinon#5255. I am working hard to optimize in any possible way. <br />
+If you have any questions or suggestions for Web Editor, then feel free to DM me on my discord sinon#0489. I am working hard to optimize in any possible way. <br />
 
 If you enjoy using Web Editor then feel free to leave a review as well. <br />
 
