@@ -22,7 +22,7 @@ If you have any questions or suggestions for Web Editor, then feel free to DM me
 
 If you enjoy using Web Editor then feel free to leave a review as well. <br />
 
-- Marouane
+- rimuru
 
  
 
